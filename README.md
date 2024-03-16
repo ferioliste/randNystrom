@@ -4,7 +4,9 @@
 
 This repository contains an implementation of the Randomized Nyström Algorithm using MPI.
 
-The code was developed for the course "HPC for numerical methods and data analysis" at EPFL in the academic year 2023-2024, fall semester. The project will be included in the directory.
+The code was developed for the course "HPC for numerical methods and data analysis" at EPFL in the academic year 2023-2024, fall semester.
+
+Check out the final report here: [`ferioli_koiner_project2.pdf`](./ferioli_koiner_project2.pdf).
 
 ## Authors
 - Stefano Ferioli ([@ferioliste](https://github.com/ferioliste))
@@ -41,6 +43,8 @@ The following parameters have to be set inside `testing/test_default.csv`, in or
   - `2`: Gaussian
   - `3`: block SRHT
 * `t` specifies the number of non-zeros for SASO. It is ignored otherwise.
+
+More information about what this settings are can be found in the final report.
 
 ## Run an array of tests saving the results
 1. Create a csv file like `testing/test_default.csv` with one line of settings per test.
