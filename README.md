@@ -1,5 +1,3 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/ferioliste/randNystrom?logo=github)
-
 # Randomized Nyström Algorithm
 
 This repository contains an implementation of the Randomized Nyström Algorithm using MPI.
